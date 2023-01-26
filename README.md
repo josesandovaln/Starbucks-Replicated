@@ -6,7 +6,7 @@ Projeto feito com o intuito de melhorar meus conhecimentos sobre HTML e CSS, rep
 
 ## Layout
 
-![Layout]()
+![Layout](https://github.com/josesandovaln/Starbucks-Replicated/blob/main/assets/image/layout.png)
 
 
 
